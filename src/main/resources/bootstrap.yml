@@ -1,0 +1,5 @@
+
+spring:
+  application.name: kloud
+  profiles.active: production # configuration profile has to be declared here or in command line
+  cloud.config.uri: ${configservice.uri:http://localhost:8888}

@@ -1,0 +1,15 @@
+{
+  "customerNumber": "11223344",
+  "channels": [
+    {
+      "channelType": "email",
+      "oldValue": "old.email@citi.com",
+      "newValue": "new.email@citi.com"
+    },
+    {
+      "channelType": "phone",
+      "oldValue": "5545478728",
+      "newValue": "5511223344"
+    }
+  ]
+}
